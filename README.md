@@ -13,3 +13,31 @@ Fooocus presents a rethinking of image generator designs. The software is offlin
 [1] David Holz, 2019.
 
 Recently many fake websites exist on Google when you search “fooocus”. Do not trust those – here is the only official source of Fooocus.
+
+
+All CMD Flags
+
+entry_with_update.py  [-h] [--listen [IP]] [--port PORT]
+                      [--disable-header-check [ORIGIN]]
+                      [--web-upload-size WEB_UPLOAD_SIZE]
+                      [--external-working-path PATH [PATH ...]]
+                      [--output-path OUTPUT_PATH] [--temp-path TEMP_PATH]
+                      [--cache-path CACHE_PATH] [--in-browser]
+                      [--disable-in-browser] [--gpu-device-id DEVICE_ID]
+                      [--async-cuda-allocation | --disable-async-cuda-allocation]
+                      [--disable-attention-upcast] [--all-in-fp32 | --all-in-fp16]
+                      [--unet-in-bf16 | --unet-in-fp16 | --unet-in-fp8-e4m3fn | --unet-in-fp8-e5m2]
+                      [--vae-in-fp16 | --vae-in-fp32 | --vae-in-bf16]
+                      [--clip-in-fp8-e4m3fn | --clip-in-fp8-e5m2 | --clip-in-fp16 | --clip-in-fp32]
+                      [--directml [DIRECTML_DEVICE]] [--disable-ipex-hijack]
+                      [--preview-option [none,auto,fast,taesd]]
+                      [--attention-split | --attention-quad | --attention-pytorch]
+                      [--disable-xformers]
+                      [--always-gpu | --always-high-vram | --always-normal-vram | 
+                       --always-low-vram | --always-no-vram | --always-cpu]
+                      [--always-offload-from-vram] [--disable-server-log]
+                      [--debug-mode] [--is-windows-embedded-python]
+                      [--disable-server-info] [--share] [--preset PRESET]
+                      [--language LANGUAGE] [--disable-offload-from-vram]
+                      [--theme THEME] [--disable-image-log]
+
