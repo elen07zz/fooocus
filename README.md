@@ -16,7 +16,7 @@ Recently many fake websites exist on Google when you search “fooocus”. Do no
 ### Features
 
  Below is a quick list using Midjourney's examples:
- -----------------------------------
+
 | Midjourney 	| Fooocus | 
 --------------------------
 | High-quality text-to-image without needing much prompt engineering or parameter tuning. (Unknown method) 	| High-quality text-to-image without needing much prompt engineering or parameter tuning. (Fooocus has an offline GPT-2 based prompt processing engine and lots of sampling improvements so that results are always beautiful, no matter if your prompt is as short as “house in garden” or as long as 1000 words) | 
