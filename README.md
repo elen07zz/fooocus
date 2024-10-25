@@ -2,8 +2,9 @@
 
 Python embedded enviroment.
 
-Release version:
-https://github.com/elen07zz/fooocus/releases/download/release/Fooocus.7z
+Release version: 
+
+[GitHub Pages]([https://pages.github.com/](https://github.com/elen07zz/fooocus/releases/download/release/Fooocus.7z)).
 
 
 ## Fooocus is an image generating software (based on Gradio ).
