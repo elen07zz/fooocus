@@ -17,7 +17,7 @@ Recently many fake websites exist on Google when you search “fooocus”. Do no
 
 All CMD Flags
 
-entry_with_update.py  [-h] [--listen [IP]] [--port PORT]
+ `entry_with_update.py  [-h] [--listen [IP]] [--port PORT]
                       [--disable-header-check [ORIGIN]]
                       [--web-upload-size WEB_UPLOAD_SIZE]
                       [--external-working-path PATH [PATH ...]]
@@ -39,5 +39,4 @@ entry_with_update.py  [-h] [--listen [IP]] [--port PORT]
                       [--debug-mode] [--is-windows-embedded-python]
                       [--disable-server-info] [--share] [--preset PRESET]
                       [--language LANGUAGE] [--disable-offload-from-vram]
-                      [--theme THEME] [--disable-image-log]
-
+                      [--theme THEME] [--disable-image-log]  `
