@@ -12,6 +12,10 @@ Fooocus presents a rethinking of image generator designs. The software is offlin
 
 Recently many fake websites exist on Google when you search “fooocus”. Do not trust those – here is the only official source of Fooocus.
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ### Features
 
